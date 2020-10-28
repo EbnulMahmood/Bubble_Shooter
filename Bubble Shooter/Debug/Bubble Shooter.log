@@ -1,0 +1,22 @@
+﻿Build started 1/14/2018 2:30:10 PM.
+     1>Project "D:\Ex\172\Advanced Programming Laboratory\Bubble Shooter\Bubble Shooter\Bubble Shooter.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt BubbleShooter.cpp
+         BubbleShooter.cpp
+     1>d:\ex\172\advanced programming laboratory\bubble shooter\bubble shooter\bubbleshooter.cpp(49): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>d:\ex\172\advanced programming laboratory\bubble shooter\bubble shooter\bubbleshooter.cpp(51): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>d:\ex\172\advanced programming laboratory\bubble shooter\bubble shooter\bubbleshooter.cpp(64): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>d:\ex\172\advanced programming laboratory\bubble shooter\bubble shooter\bubbleshooter.cpp(78): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>d:\ex\172\advanced programming laboratory\bubble shooter\bubble shooter\bubbleshooter.cpp(106): warning C4552: '+' : operator has no effect; expected operator with side-effect
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Ex\172\Advanced Programming Laboratory\Bubble Shooter\Debug\Bubble Shooter.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Ex\172\Advanced Programming Laboratory\Bubble Shooter\Debug\Bubble Shooter.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Ex\172\Advanced Programming Laboratory\Bubble Shooter\Debug\Bubble Shooter.lib" /MACHINE:X86 Debug\BubbleShooter.obj
+         Bubble Shooter.vcxproj -> D:\Ex\172\Advanced Programming Laboratory\Bubble Shooter\Debug\Bubble Shooter.exe
+     1>Done Building Project "D:\Ex\172\Advanced Programming Laboratory\Bubble Shooter\Bubble Shooter\Bubble Shooter.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.40
